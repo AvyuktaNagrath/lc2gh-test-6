@@ -3,5 +3,5 @@
 - **Slug:** two-sum
 - **Difficulty:** Easy
 - **Language:** —
-- **Source:** https://leetcode.com/problems/two-sum/description/
-- **Captured:** 2025-09-15T06:44:09.727Z
+- **Source:** https://leetcode.com/problems/two-sum/
+- **Captured:** 2025-09-15T06:44:24.014Z
